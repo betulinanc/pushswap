@@ -1,0 +1,15 @@
+//https://www.scaler.com/topics/c/stack-using-linked-list-in-c/
+/*https://bidb.itu.edu.tr/seyir-defteri/blog/
+2013/09/06/yap%C4%B1-(struct)-kavram%C4%B1-ve-yap%C4%B1-ile-s%C4%B1n%C4%B1f-
+(class)-aras%C4%B1ndaki-farklar#:~:text=Yap%C4%B1%20(Struct)%20%3A%20Birbirleriyle%20
+ili%C5%9Fkili,i%C3%A7inde%20tutulacak
+%20kay%C4%B1tlar%C4%B1%20olu%C5%9Fturmakta%20kullan%C4%B1l%C4%B1rlar.*/
+//https://bilgisayarkavramlari.com/2007/05/04/stack-yigin/
+//https://www.geeksforgeeks.org/introduction-to-stack-data-structure-and-algorithm-tutorials/
+//https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/
+/*https://www.enjoyalgorithms.com/blog/introduction-to-sorting-bubble-
+sort-selection-sort-and-insertion-sort*/
+/*https://medium.com/@jamierobertdawson/push-swap-the-least-
+amount-of-moves-with-two-stacks-d1e76a71789a*/
+//https://www.quora.com/How-do-I-free-an-array-in-C
+//https://medium.com/yigit-xcodeproj/stack-ve-heap-arasindaki-fark-nedir-stack-vs-heap-c61e3d463dd7
